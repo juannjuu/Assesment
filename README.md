@@ -1,4 +1,4 @@
-# Assesment
+# Glints Academy Batch 16 Tech Try Out Assesment
 Cases :
 - create a function that accept two string parameter
 - your function should be able to determine the first parameter is anagram with from the second parameter vice versa
